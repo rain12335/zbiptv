@@ -1,11 +1,3 @@
-湖北卫视,http://ipipip/rtp/228.0.0.60:6108
-湖北公共新闻,http://ipipip/rtp/228.0.0.124:6108
-湖北经视频道,http://ipipip/rtp/228.0.0.125:6108
-湖北综合频道,http://ipipip/rtp/228.0.0.126:6108
-湖北垄上频道,http://ipipip/rtp/228.0.0.127:6108
-湖北生活频道,http://ipipip/rtp/228.0.0.204:6108
-湖北影视频道,http://ipipip/rtp/228.0.0.205:6108
-湖北教育频道,http://ipipip/rtp/228.0.0.206:6108
 CCTV-1综合,http://ipipip/rtp/228.0.0.1:6108
 CCTV-2财经,http://ipipip/rtp/228.0.0.2:6108
 CCTV-3综艺,http://ipipip/rtp/228.0.0.156:7156
@@ -30,6 +22,7 @@ CHC影迷电影,http://ipipip/rtp/228.0.0.233:6108
 CCTV第一剧场,http://ipipip/rtp/228.0.0.235:6108
 CCTV风云足球,http://ipipip/rtp/228.0.0.236:6108
 CCTV怀旧剧场,http://ipipip/rtp/228.0.0.237:6108
+湖北卫视,http://ipipip/rtp/228.0.0.60:6108
 湖南卫视,http://ipipip/rtp/228.0.0.61:6108
 浙江卫视,http://ipipip/rtp/228.0.0.65:6108
 江苏卫视,http://ipipip/rtp/228.0.0.64:6108
@@ -73,3 +66,10 @@ CETV4,http://ipipip/rtp/228.0.0.177:7177
 GCTN英语,http://ipipip/rtp/228.0.0.16:6108
 IPTV靓妆,http://ipipip/rtp/228.0.0.86:6108
 新动漫,http://ipipip/rtp/228.0.0.240:6108
+湖北公共新闻,http://ipipip/rtp/228.0.0.124:6108
+湖北经视频道,http://ipipip/rtp/228.0.0.125:6108
+湖北综合频道,http://ipipip/rtp/228.0.0.126:6108
+湖北垄上频道,http://ipipip/rtp/228.0.0.127:6108
+湖北生活频道,http://ipipip/rtp/228.0.0.204:6108
+湖北影视频道,http://ipipip/rtp/228.0.0.205:6108
+湖北教育频道,http://ipipip/rtp/228.0.0.206:6108
