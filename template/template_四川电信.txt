@@ -103,7 +103,7 @@ iHOT爱玩具,http://ipipip/udp/239.93.42.18:5140
 上海东方财经,http://ipipip/udp/239.93.1.165:5140
 湖南快乐垂钓,http://ipipip/udp/239.93.1.151:5140
 湖南茶频道,http://ipipip/udp/239.93.0.114:5140
-求索频道,http://ipipip/udp/239.93.42.24:5140
+求索记录,http://ipipip/udp/239.93.42.24:5140
 i成都,http://ipipip/udp/239.93.1.104:1234
 亲子趣学4K,http://ipipip/udp/239.93.1.191:5140
 少儿天地,http://ipipip/udp/239.93.42.34:5140
