@@ -125,4 +125,4 @@ i成都,http://ipipip/udp/239.93.1.104:1234
 天元围棋,http://ipipip/udp/239.93.42.55:5140
 乐龄学堂,http://ipipip/udp/239.93.1.179:5140
 星空卫视,http://ipipip/udp/239.93.0.156:2193
-channelv,http://ipipip/udp/239.93.0.157:2194
+Channel V,http://ipipip/udp/239.93.0.157:2194
