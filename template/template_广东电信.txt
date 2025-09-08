@@ -76,7 +76,7 @@ CETV早期教育,http://ipipip/udp/239.77.0.180:5146
 广东珠江频道,http://ipipip/udp/239.77.0.114:5146
 广东新闻频道,http://ipipip/udp/239.77.0.173:5146
 广东民生频道,http://ipipip/udp/239.77.0.225:5146
-广东体育频道,http://ipipip/udp/239.77.0.112:5146
+广东体育,http://ipipip/udp/239.77.0.112:5146
 广东体育频道,http://ipipip/udp/239.77.0.168:5146
 广东经济科教,http://ipipip/udp/239.77.0.85:5146
 广东经济科教,http://ipipip/udp/239.77.0.167:5146
