@@ -76,7 +76,7 @@ CETV4,http://ipipip/rtp/225.1.8.195:4120
 北京纪实科教,http://ipipip/udp/225.1.8.105:8002
 北京影视,http://ipipip/udp/225.1.8.82:8000
 北京财经,http://ipipip/udp/225.1.8.106:8002
-北京体育,http://ipipip/udp/225.1.8.23:8002
+北京体育休闲,http://ipipip/udp/225.1.8.23:8002
 北京生活,http://ipipip/udp/225.1.8.108:8002
 北京新闻,http://ipipip/udp/225.1.8.83:8000
 卡酷少儿,http://ipipip/udp/225.1.8.35:8000
