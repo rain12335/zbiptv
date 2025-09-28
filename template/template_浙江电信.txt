@@ -22,9 +22,21 @@ CGTN阿语,http://ipipip/udp/233.50.201.38:5140
 CGTN俄语,http://ipipip/udp/233.50.201.39:5140
 凤凰中文,http://ipipip/udp/233.50.202.35:5140
 凤凰资讯,http://ipipip/udp/233.50.202.36:5140
+CCTV4K,http://ipipip/udp/233.50.201.226:5140
+CCTV16 4K,http://ipipip/udp/233.50.201.63:5140
 北京卫视4K,http://ipipip/udp/233.50.202.100:5140
 广东卫视4K,http://ipipip/udp/233.50.202.101:5140
 深圳卫视4K,http://ipipip/udp/233.50.202.102:5140
+东方卫视4K,http://ipipip/udp/233.50.202.105:5140
+浙江卫视4K,http://ipipip/udp/233.50.202.104:5140
+江苏卫视4K,http://ipipip/udp/233.50.202.107:5140
+山东卫视4K,http://ipipip/udp/233.50.202.108:5140
+湖南卫视4K,http://ipipip/udp/233.50.202.106:5140
+四川卫视4K,http://ipipip/udp/233.50.202.109:5140
+百事通4K-1,http://ipipip/udp/233.50.200.182:5140
+百事通4k-2,http://ipipip/udp/233.50.200.183:5140
+百事通电影4K,http://ipipip/udp/233.50.200.185:5140
+欢笑剧场4K,http://ipipip/udp/233.50.200.52:5140
 浙江卫视,http://ipipip/udp/233.50.201.100:5140
 湖南卫视,http://ipipip/udp/233.50.201.103:5140
 江苏卫视,http://ipipip/udp/233.50.201.106:5140
