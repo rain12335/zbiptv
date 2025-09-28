@@ -1,20 +1,20 @@
-CCTV-1综合,http://ipipip/udp/239.21.1.120:5002
-CCTV-2财经,http://ipipip/udp/239.21.1.151:5002
-CCTV-3综艺,http://ipipip/udp/239.21.2.45:5002
-CCTV-4中文国际,http://ipipip/udp/239.21.1.154:5002
-CCTV-5体育,http://ipipip/udp/239.21.2.46:5002
-CCTV-6电影,http://ipipip/udp/239.21.2.47:5002
-CCTV-7国防军事,http://ipipip/udp/239.21.1.152:5002
-CCTV-8电视剧,http://ipipip/udp/239.21.2.48:5002
-CCTV-9纪录,http://ipipip/udp/239.21.1.153:5002
-CCTV-10科教,http://ipipip/udp/239.21.1.155:5002
-CCTV-11戏曲,http://ipipip/udp/239.21.2.2:5002
-CCTV-12社会与法,http://ipipip/udp/239.21.1.156:5002
-CCTV-13新闻,http://ipipip/udp/239.21.2.3:5002
-CCTV-14少儿,http://ipipip/udp/239.21.1.157:5002
-CCTV-15音乐,http://ipipip/udp/239.21.2.4:5002
-CCTV-17农业农村,http://ipipip/udp/239.21.1.186:5002
-CCTV-5+体育赛事,http://ipipip/udp/239.21.1.142:5002
+CCTV1综合,http://ipipip/udp/239.21.1.120:5002
+CCTV2财经,http://ipipip/udp/239.21.1.151:5002
+CCTV3综艺,http://ipipip/udp/239.21.2.45:5002
+CCTV4中文国际,http://ipipip/udp/239.21.1.154:5002
+CCTV5体育,http://ipipip/udp/239.21.2.46:5002
+CCTV6电影,http://ipipip/udp/239.21.2.47:5002
+CCTV7国防军事,http://ipipip/udp/239.21.1.152:5002
+CCTV8电视剧,http://ipipip/udp/239.21.2.48:5002
+CCTV9纪录,http://ipipip/udp/239.21.1.153:5002
+CCTV10科教,http://ipipip/udp/239.21.1.155:5002
+CCTV11戏曲,http://ipipip/udp/239.21.2.2:5002
+CCTV12社会与法,http://ipipip/udp/239.21.1.156:5002
+CCTV13新闻,http://ipipip/udp/239.21.2.3:5002
+CCTV14少儿,http://ipipip/udp/239.21.1.157:5002
+CCTV15音乐,http://ipipip/udp/239.21.2.4:5002
+CCTV17农业农村,http://ipipip/udp/239.21.1.186:5002
+CCTV5+体育赛事,http://ipipip/udp/239.21.1.142:5002
 山东卫视,http://ipipip/udp/239.21.1.87:5002
 江苏卫视,http://ipipip/udp/239.21.1.89:5002
 湖南卫视,http://ipipip/udp/239.21.1.158:5002
@@ -132,8 +132,8 @@ BRTV纪实科教,http://ipipip/udp/239.21.1.172:5002
 CETV1,http://ipipip/udp/239.21.2.7:5002
 中国交通,http://ipipip/udp/239.21.1.115:5002
 海看剧场,http://ipipip/udp/239.21.1.98:5002
-CCTV-4 北美,http://ipipip/udp/239.21.2.29:5002
-CCTV-4 欧洲,http://ipipip/udp/239.21.2.28:5002
+CCTV4 北美,http://ipipip/udp/239.21.2.29:5002
+CCTV4 欧洲,http://ipipip/udp/239.21.2.28:5002
 CGTN,http://ipipip/udp/239.21.2.30:5002
 CGTN俄语,http://ipipip/udp/239.21.2.35:5002
 CGTN法语,http://ipipip/udp/239.21.2.33:5002
@@ -158,5 +158,6 @@ CGTN阿拉伯语,http://ipipip/udp/239.21.2.34:5002
 菏泽1,http://ipipip/udp/239.21.1.103:5002
 诸城新闻,http://ipipip/udp/239.21.1.217:5002
 长清新闻,http://ipipip/udp/239.21.1.107:5002
+
 
 
