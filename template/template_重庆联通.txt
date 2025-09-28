@@ -1,20 +1,20 @@
-CCTV-1综合,http://ipipip/udp/225.0.4.74:7980
-CCTV-2财经,http://ipipip/udp/225.0.4.132:7980
-CCTV-3综艺,http://ipipip/udp/225.0.4.142:7980
-CCTV-4中文国际,http://ipipip/udp/225.0.4.176:7980
-CCTV-5体育,http://ipipip/udp/225.0.4.143:7980
-CCTV-5+体育赛事,http://ipipip/udp/225.0.4.73:7980
-CCTV-6电影,http://ipipip/udp/225.0.4.144:7980
-CCTV-7国防军事,http://ipipip/udp/225.0.4.127:7980
-CCTV-8电视剧,http://ipipip/udp/225.0.4.137:7980
-CCTV-9纪录,http://ipipip/udp/225.0.4.131:7980
-CCTV-10科教,http://ipipip/udp/225.0.4.130:7980
-CCTV-11戏曲,http://ipipip/udp/225.0.4.218:7980
-CCTV-12社会与法,http://ipipip/udp/225.0.4.129:7980
-CCTV-13新闻,http://ipipip/udp/225.0.4.219:7980
-CCTV-14少儿,http://ipipip/udp/225.0.4.128:7980
-CCTV-15音乐,http://ipipip/udp/225.0.4.220:7980
-CCTV-17农业农村,http://ipipip/udp/225.0.4.179:7980
+CCTV1综合,http://ipipip/udp/225.0.4.74:7980
+CCTV2财经,http://ipipip/udp/225.0.4.132:7980
+CCTV3综艺,http://ipipip/udp/225.0.4.142:7980
+CCTV4中文国际,http://ipipip/udp/225.0.4.176:7980
+CCTV5体育,http://ipipip/udp/225.0.4.143:7980
+CCTV5+体育赛事,http://ipipip/udp/225.0.4.73:7980
+CCTV6电影,http://ipipip/udp/225.0.4.144:7980
+CCTV7国防军事,http://ipipip/udp/225.0.4.127:7980
+CCTV8电视剧,http://ipipip/udp/225.0.4.137:7980
+CCTV9纪录,http://ipipip/udp/225.0.4.131:7980
+CCTV10科教,http://ipipip/udp/225.0.4.130:7980
+CCTV11戏曲,http://ipipip/udp/225.0.4.218:7980
+CCTV12社会与法,http://ipipip/udp/225.0.4.129:7980
+CCTV13新闻,http://ipipip/udp/225.0.4.219:7980
+CCTV14少儿,http://ipipip/udp/225.0.4.128:7980
+CCTV15音乐,http://ipipip/udp/225.0.4.220:7980
+CCTV17农业农村,http://ipipip/udp/225.0.4.179:7980
 CGTN英语,http://ipipip/udp/225.0.4.12:7980
 北京卫视4K,http://ipipip/udp/225.0.4.123:7980
 北京卫视4K,http://ipipip/udp/225.0.4.122:7980
@@ -65,6 +65,7 @@ CGTN英语,http://ipipip/udp/225.0.4.12:7980
 重庆时红岩文化,http://ipipip/udp/225.0.4.196:7980
 重庆新农村频道,http://ipipip/udp/225.0.4.189:7980
 重庆移动频道,http://ipipip/rtp/225.0.4.68:7980
+
 
 
 
