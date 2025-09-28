@@ -19,6 +19,12 @@ CGTN,http://ipipip/udp/239.81.0.28:4056
 CETV1,http://ipipip/udp/239.81.0.92:4056
 CETV2,http://ipipip/udp/239.81.0.245:4056
 CETV4,http://ipipip/udp/239.81.0.246:4056
+湖南卫视4K,http://ipipip/udp/239.81.0.72:4056
+东方卫视4K,http://ipipip/udp/239.81.0.76:4056
+浙江卫视4K,http://ipipip/udp/239.81.0.75:4056
+江苏卫视4K,http://ipipip/udp/239.81.0.73:4056
+山东卫视4K,http://ipipip/udp/239.81.0.78:4056
+四川卫视4K,http://ipipip/udp/239.81.0.80:4056
 广西卫视,http://ipipip/udp/239.81.0.107:4056
 北京卫视,http://ipipip/udp/239.81.0.109:4056
 天津卫视,http://ipipip/udp/239.81.0.113:4056
@@ -77,6 +83,7 @@ CETV4,http://ipipip/udp/239.81.0.246:4056
 贺州新闻,http://ipipip/udp/239.81.0.137:4056
 桂林新闻,http://ipipip/udp/239.81.0.135:4056
 华数爱上4K,http://ipipip/udp/239.81.0.123:4056
+
 
 
 
