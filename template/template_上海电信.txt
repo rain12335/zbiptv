@@ -35,9 +35,15 @@ CETV1,http://ipipip/rtp/233.18.204.98:5140
 CETV2,http://ipipip/rtp/233.18.204.154:5140
 CETV4,http://ipipip/rtp/233.18.204.111:5140
 CETV早期教育,http://ipipip/rtp/233.18.204.187:5140
+北京卫视4K,http://ipipip/rtp/239.45.3.123:5140
 北京卫视4K,http://ipipip/rtp/233.18.204.209:5140
+四川卫视4K,http://ipipip/rtp/239.45.3.48:5140
+山东卫视4K,http://ipipip/rtp/239.45.3.180:5140
+湖南卫视4K,http://ipipip/rtp/233.18.204.210:5140
+浙江卫视4K,http://ipipip/rtp/233.18.204.216:514
 广东卫视4K,http://ipipip/rtp/233.18.204.218:5140
 深圳卫视4K,http://ipipip/rtp/233.18.204.219:5140
+东方卫视4K,http://ipipip/rtp/233.18.204.224:5140
 江苏卫视4K,http://ipipip/rtp/239.45.1.109:5140
 湖南卫视,http://ipipip/rtp/233.18.204.86:5140
 浙江卫视,http://ipipip/rtp/233.18.204.84:5140
@@ -120,3 +126,4 @@ BesTV直播7,http://ipipip/rtp/239.45.3.140:5140
 BesTV直播8,http://ipipip/rtp/239.45.3.215:5140
 BesTV直播9,http://ipipip/rtp/239.45.3.216:5140
 BesTV直播10,http://ipipip/rtp/233.18.204.160:5140
+
