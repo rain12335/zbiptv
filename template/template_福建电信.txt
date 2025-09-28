@@ -19,6 +19,12 @@ CGTN英语,http://ipipip/rtp/239.61.2.19:8108
 CGTN纪录,http://ipipip/rtp/239.61.3.43:9776
 CGTN法语,http://ipipip/rtp/239.61.3.44:9782
 CGTN俄语,http://ipipip/rtp/239.61.3.45:9788
+东方卫视4K,http://ipipip/rtp/239.61.4.215:1025
+江苏卫视4K,http://ipipip/rtp/239.61.4.216:1025
+浙江卫视4K,http://ipipip/rtp/239.61.4.217:1025
+山东卫视4K,http://ipipip/rtp/239.61.4.218:1025
+湖南卫视4K,http://ipipip/rtp/239.61.4.219:1025
+四川卫视4K,http://ipipip/rtp/239.61.4.220:1025
 凤凰卫视资讯台,http://ipipip/rtp/239.61.2.183:9086
 凤凰卫视中文台,http://ipipip/rtp/239.61.2.184:9092
 东南卫视,http://ipipip/rtp/239.61.2.132:8708
