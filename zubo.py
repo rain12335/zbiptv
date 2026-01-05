@@ -134,20 +134,15 @@ def main():
         with open(file_path, 'r', encoding="utf-8") as f:
             content = f.read()
             file_contents.append(content)
-    for file_path in glob.glob('组播_*移动.txt'):
-        with open(file_path, 'r', encoding="utf-8") as f:
-            content = f.read()
-            file_contents.append(content)
     now = datetime.datetime.now(datetime.UTC) + datetime.timedelta(hours=8)
     current_time = now.strftime("%Y/%m/%d %H:%M")
     with open("zubo_all.txt", "w", encoding="utf-8") as f:
         f.write(f"{current_time}更新,#genre#\n")
-        f.write(f"CCTV1,http://183.251.61.207/PLTV/88888888/224/3221225829/index.m3u8\n")
+        f.write(f"浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8\n")
         f.write('\n'.join(file_contents))
     txt_to_m3u("zubo_all.txt", "zubo_all.m3u")
     print(f"组播地址获取完成")
 
 if __name__ == "__main__":
     main()
-
 
