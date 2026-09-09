@@ -1,4 +1,4 @@
-2026/09/09 10:25更新,#genre#
+2026/09/09 20:05更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 四川电信-组播1,#genre#
 CCTV1综合,http://171.213.155.122:8188/udp/239.93.0.184:5140
